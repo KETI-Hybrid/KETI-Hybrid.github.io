@@ -14,7 +14,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 baseurl: https://keti-hybrid.github.io/ # the subpath of your site, e.g. /blog
 google-site-verification: google18245a10ca97ef4a.html
-url: "hhttps://keti-hybrid.github.io/" # the base hostname & protocol for your site
+url: "https://keti-hybrid.github.io/" # the base hostname & protocol for your site
 twitter_username: keti-hybrid
 github_username:  keti-hybrid
 
